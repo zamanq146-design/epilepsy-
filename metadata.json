@@ -1,0 +1,6 @@
+{
+  "name": "Neurology Crucibles: Temporal Lobe Epilepsy",
+  "description": "An interactive, high-fidelity clinical case study and assessment tool for Temporal Lobe Epilepsy using the Neurology Crucibles template.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
